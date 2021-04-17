@@ -1,0 +1,4 @@
+git clone https://JavierSuarezCL@bitbucket.org/javiersuarezcl/ejercicio1.git
+
+
+git clone https://JavierSuarezCL@bitbucket.org/javiersuarezcl/ejer010325.git//old
